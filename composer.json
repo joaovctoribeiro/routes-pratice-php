@@ -1,0 +1,17 @@
+{
+    "name": "joao/routes-pratice",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Ribeiro",
+            "email": "joaovctoribeiro@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.4"
+    }
+}
